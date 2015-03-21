@@ -1,0 +1,23 @@
+{
+  "name": "js-de",
+  "description": "JavaScript Development Environment",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stack247/js-de.git"
+  },
+  "author": "stack247",
+  "license": "GNU GPL",
+  "bugs": {
+    "url": "https://github.com/stack247/js-de/issues"
+  },
+  "homepage": "https://github.com/stack247/js-de",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "browserify": "^9.0.3"
+  }
+}
