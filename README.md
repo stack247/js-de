@@ -28,9 +28,11 @@ Some of the development features this project trying to achieve are:
 ## Steps
 
 Project Setup
+
 1. Create project root folder: 'js-de'.
 
 Source Control Setup
+
 2. Initialize git repository: run 'git init'.
 3. Add origin to source control: run 'git remote add origin https://github.com/stack247/js-de.git'.
 4. Add source control related files: ".gitignore", "README.md".
@@ -39,10 +41,12 @@ Source Control Setup
 7. Push to source control: run 'git push origin master'.
 
 App Setup
+
 8. Add folders (build, src, src/modules, src/test).
 9. Add application related files: "index.html", "app.js", "greeting.js".
 
 Node / NPM
+
 10. Initialize npm package manager to create 'package.json': run 'npm init'.
 11. Install 'Browserify' package globally: run 'npm install -g browserify'.
 12. Install 'Browserify' in the project: run 'npm install -save browserify'.
@@ -50,6 +54,7 @@ Node / NPM
 14. Install 'Gulp' in the project: run 'npm install -save-dev gulp'.
 
 Gulp
+
 15. Add gulp task file: 'gulpfile.js'
 16. Uncomment 'uglify' require and pipe.
 17. Uncomment 'sourcemaps' require and pipe.
