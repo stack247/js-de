@@ -35,7 +35,7 @@ Source Control Setup
 
 2. Initialize git repository: run 'git init'.
 3. Add origin to source control: run 'git remote add origin https://github.com/stack247/js-de.git'.
-4. Set tracking information for the branch: run 'git branch --set-upstream-to=origin/master master
+4. Set tracking information for the branch: run 'git branch --set-upstream-to=origin/master master'.
 5. Add source control related files: ".gitignore", "README.md".
 6. Add files to source control: run 'git add .'.
 7. Commit to source control: run 'git commit -m "Initial commit"'.
