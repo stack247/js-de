@@ -8,22 +8,22 @@ This project shows how we can with achieve similar full-featured IDE with help o
 
 Some of the development features this project trying to achieve are:
 
-Code editor
-Syntax highlighting
-Syntax validation
-Auto complete
-Auto run/refresh
-Project folder
-Reference management
-Test runner
-Build
-Compile
-Bundle and minification (uglify)
-Run
-Deployment
-Code coverage
-Package manager
-Source control
++ Code editor
++ Syntax highlighting
++ Syntax validation
++ Auto complete
++ Auto run/refresh
++ Project folder
++ Reference management
++ Test runner
++ Build
++ Compile
++ Bundle and minification (uglify)
++ Run
++ Deployment
++ Code coverage
++ Package manager
++ Source control
 
 ## Steps
 
@@ -53,7 +53,6 @@ Gulp
 15. Add gulp task file: 'gulpfile.js'
 16. Uncomment 'uglify' require and pipe.
 17. Uncomment 'sourcemaps' require and pipe.
-*/
 
 ## Operating System
 Windows 8.1
