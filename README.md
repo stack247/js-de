@@ -25,7 +25,12 @@ Some of the development features this project trying to achieve are:
 + Package manager
 + Source control
 
-## Steps
+## Operating System
++ Windows 8.1
++ Node
++ Webstorm
+
+## Demo Steps
 
 Project Setup
 
@@ -60,5 +65,8 @@ Gulp
 17. Uncomment 'uglify' require and pipe.
 18. Uncomment 'sourcemaps' require and pipe.
 
-## Operating System
-Windows 8.1
+## Run
+
+1. Run 'git clone https://github.com/stack247/js-de.git'.
+2. Run 'npm install'.
+3. Run 'gulp'.
