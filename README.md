@@ -58,6 +58,7 @@ Gulp
 15. Add gulp task file: 'gulpfile.js'
 16. Uncomment 'uglify' require and pipe.
 17. Uncomment 'sourcemaps' require and pipe.
+18. 
 
 ## Operating System
 Windows 8.1
